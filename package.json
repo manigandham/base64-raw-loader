@@ -1,0 +1,7 @@
+{
+    "name": "base64-raw-loader",
+    "version": "1.0.0",
+    "description": "Webpack loader that imports the raw text content of a file as a base-64 string.",
+    "homepage": "https://github.com/manigandham/base64-raw-loader",
+    "author": "Mani Gandham"
+}
